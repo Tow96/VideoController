@@ -7,6 +7,7 @@
 #ifndef BUTTONS_H_
   #define BUTTONS_H_
 
+  #include <elapsedMillis.h>
   // If there is a configuration file present, utilizes the variables set in it
   // If not present in the configuration file, the code won't compile
   #ifdef CONFIGURATION_H_

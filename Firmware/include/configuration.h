@@ -7,8 +7,8 @@
   #define CONFIGURATION_H_
   // ----  Debug Mode
   #define DEBUG
-  //#define DEBUG_DUMP_MATRIX
-  //#define DEBUG_DUMP_KNOBPOSITIONS
+  // #define DEBUG_DUMP_MATRIX
+  #define DEBUG_DUMP_KNOBPOSITIONS
   #define DEBUG_DUMP_ACTIONS
 
   #define switchDebounceTime 50  // Sets the amount of miliseconds to count a key press
